@@ -191,5 +191,3 @@ parallel-graph-algorithms/
 Manshi Singh
 B.Tech IT @ IIEST Shibpur
 💼 Aspiring SDE | MERN Developer | DSA Enthusiast
-
-⭐ If you found this project useful, consider starring the repository!
